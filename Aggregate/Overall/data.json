@@ -1,0 +1,1112 @@
+[
+  {
+    "Country": "Angola",
+    "Average_Tone": 0,
+    "Mentions": 78,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Antarctica",
+    "Average_Tone": 2,
+    "Mentions": 200,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Armenia",
+    "Average_Tone": 1,
+    "Mentions": 116,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Austria",
+    "Average_Tone": 3,
+    "Mentions": 274,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Belize",
+    "Average_Tone": 0,
+    "Mentions": 101,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Bolivia",
+    "Average_Tone": -2,
+    "Mentions": 2746,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Brazil",
+    "Average_Tone": 1,
+    "Mentions": 1768,
+    "Goldstein": -7
+  },
+  {
+    "Country": "CaymanIslands",
+    "Average_Tone": -1,
+    "Mentions": 16,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Congo",
+    "Average_Tone": 1,
+    "Mentions": 126,
+    "Goldstein": -6
+  },
+  {
+    "Country": "CostaRica",
+    "Average_Tone": 0,
+    "Mentions": 922,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Ecuador",
+    "Average_Tone": 2,
+    "Mentions": 216,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Finland",
+    "Average_Tone": 1,
+    "Mentions": 50,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Gabon",
+    "Average_Tone": 1,
+    "Mentions": 24,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Gambia",
+    "Average_Tone": 4,
+    "Mentions": 32,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Gibraltar",
+    "Average_Tone": 1,
+    "Mentions": 29,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Grenada",
+    "Average_Tone": 3,
+    "Mentions": 16,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Guatemala",
+    "Average_Tone": 0,
+    "Mentions": 265,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Guyana",
+    "Average_Tone": 1,
+    "Mentions": 38,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Honduras",
+    "Average_Tone": -3,
+    "Mentions": 2752,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Ireland",
+    "Average_Tone": 2,
+    "Mentions": 479,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Japan",
+    "Average_Tone": 3,
+    "Mentions": 5296,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Kosovo",
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Laos",
+    "Average_Tone": 3,
+    "Mentions": 110,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Lebanon",
+    "Average_Tone": 0,
+    "Mentions": 118,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Liberia",
+    "Average_Tone": 2,
+    "Mentions": 18,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Macau",
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Madagascar",
+    "Average_Tone": 4,
+    "Mentions": 261,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Mauritius",
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Mexico",
+    "Average_Tone": 1,
+    "Mentions": 3929,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Moldova",
+    "Average_Tone": 0,
+    "Mentions": 31,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Mongolia",
+    "Average_Tone": 2,
+    "Mentions": 41,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Morocco",
+    "Average_Tone": 0,
+    "Mentions": 40,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Mozambique",
+    "Average_Tone": 1,
+    "Mentions": 553,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Nepal",
+    "Average_Tone": 2,
+    "Mentions": 307,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Netherlands",
+    "Average_Tone": 1,
+    "Mentions": 951,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Nigeria",
+    "Average_Tone": 1,
+    "Mentions": 424,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Norway",
+    "Average_Tone": 2,
+    "Mentions": 372,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Poland",
+    "Average_Tone": 1,
+    "Mentions": 214,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Portugal",
+    "Average_Tone": 4,
+    "Mentions": 109,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Qatar",
+    "Average_Tone": 3,
+    "Mentions": 104,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Rwanda",
+    "Average_Tone": 1,
+    "Mentions": 321,
+    "Goldstein": -6
+  },
+  {
+    "Country": "SaintHelena",
+    "Average_Tone": 2,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Seychelles",
+    "Average_Tone": 4,
+    "Mentions": 138,
+    "Goldstein": -5
+  },
+  {
+    "Country": "SolomonIslands",
+    "Average_Tone": 0,
+    "Mentions": 21,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Sweden",
+    "Average_Tone": 2,
+    "Mentions": 126,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Syria",
+    "Average_Tone": 0,
+    "Mentions": 107,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Tanzania",
+    "Average_Tone": -3,
+    "Mentions": 1329,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Tonga",
+    "Average_Tone": 4,
+    "Mentions": 83,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Uganda",
+    "Average_Tone": 2,
+    "Mentions": 324,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedArabEmirates",
+    "Average_Tone": 2,
+    "Mentions": 284,
+    "Goldstein": -7
+  },
+  {
+    "Country": "UnitedStates",
+    "Average_Tone": 1,
+    "Mentions": 81744,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Venezuela",
+    "Average_Tone": 2,
+    "Mentions": 71,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Vietnam",
+    "Average_Tone": 0,
+    "Mentions": 519,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Zambia",
+    "Average_Tone": 0,
+    "Mentions": 81,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Afghanistan",
+    "Average_Tone": 3,
+    "Mentions": 113,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Albania",
+    "Average_Tone": 0,
+    "Mentions": 42,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Argentina",
+    "Average_Tone": 0,
+    "Mentions": 546,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Australia",
+    "Average_Tone": 1,
+    "Mentions": 9479,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Azerbaijan",
+    "Average_Tone": 1,
+    "Mentions": 2,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Bahrain",
+    "Average_Tone": 6,
+    "Mentions": 6,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Bangladesh",
+    "Average_Tone": 1,
+    "Mentions": 508,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Belarus",
+    "Average_Tone": 4,
+    "Mentions": 14,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Belgium",
+    "Average_Tone": 3,
+    "Mentions": 280,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Bhutan",
+    "Average_Tone": 4,
+    "Mentions": 22,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Bosnia-Herzegovina",
+    "Average_Tone": 2,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "BritishIndianOceanTerritory",
+    "Average_Tone": 8,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Bulgaria",
+    "Average_Tone": 2,
+    "Mentions": 243,
+    "Goldstein": -5
+  },
+  {
+    "Country": "BurkinaFaso",
+    "Average_Tone": -4,
+    "Mentions": 20,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Chile",
+    "Average_Tone": 3,
+    "Mentions": 817,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Cuba",
+    "Average_Tone": 3,
+    "Mentions": 43,
+    "Goldstein": -6
+  },
+  {
+    "Country": "CzechRepublic",
+    "Average_Tone": 3,
+    "Mentions": 306,
+    "Goldstein": -4
+  },
+  {
+    "Country": "DemocraticRepublicoftheCongo",
+    "Average_Tone": 1,
+    "Mentions": 33,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Egypt",
+    "Average_Tone": 4,
+    "Mentions": 74,
+    "Goldstein": -4
+  },
+  {
+    "Country": "ElSalvador",
+    "Average_Tone": 0,
+    "Mentions": 73,
+    "Goldstein": -6
+  },
+  {
+    "Country": "FrenchGuiana",
+    "Average_Tone": 0,
+    "Mentions": 6,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Georgia",
+    "Average_Tone": 7,
+    "Mentions": 28,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Germany",
+    "Average_Tone": 2,
+    "Mentions": 2084,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Ghana",
+    "Average_Tone": 3,
+    "Mentions": 128,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Greece",
+    "Average_Tone": 0,
+    "Mentions": 171,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Guam",
+    "Average_Tone": 2,
+    "Mentions": 45,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Hungary",
+    "Average_Tone": 3,
+    "Mentions": 352,
+    "Goldstein": -5
+  },
+  {
+    "Country": "India",
+    "Average_Tone": 0,
+    "Mentions": 3459,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Iran",
+    "Average_Tone": 2,
+    "Mentions": 182,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Iraq",
+    "Average_Tone": 2,
+    "Mentions": 115,
+    "Goldstein": -4
+  },
+  {
+    "Country": "IsleofMan",
+    "Average_Tone": -2,
+    "Mentions": 10,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Italy",
+    "Average_Tone": 3,
+    "Mentions": 743,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Jamaica",
+    "Average_Tone": 5,
+    "Mentions": 132,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Jordan",
+    "Average_Tone": 3,
+    "Mentions": 80,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Average_Tone": 0,
+    "Mentions": 11,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Latvia",
+    "Average_Tone": 0,
+    "Mentions": 16,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Lesotho",
+    "Average_Tone": 1,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Libya",
+    "Average_Tone": 1,
+    "Mentions": 109,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Luxembourg",
+    "Average_Tone": 1,
+    "Mentions": 69,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Malaysia",
+    "Average_Tone": 3,
+    "Mentions": 812,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Myanmar",
+    "Average_Tone": 3,
+    "Mentions": 297,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Namibia",
+    "Average_Tone": 0,
+    "Mentions": 99,
+    "Goldstein": -6
+  },
+  {
+    "Country": "NewZealand",
+    "Average_Tone": 3,
+    "Mentions": 782,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Nicaragua",
+    "Average_Tone": 1,
+    "Mentions": 107,
+    "Goldstein": -3
+  },
+  {
+    "Country": "NorthKorea",
+    "Average_Tone": -2,
+    "Mentions": 25,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Oceans",
+    "Average_Tone": 1,
+    "Mentions": 208,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Paraguay",
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Peru",
+    "Average_Tone": 0,
+    "Mentions": 740,
+    "Goldstein": -6
+  },
+  {
+    "Country": "SaudiArabia",
+    "Average_Tone": 3,
+    "Mentions": 102,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SouthKorea",
+    "Average_Tone": 2,
+    "Mentions": 182,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SouthSudan",
+    "Average_Tone": -4,
+    "Mentions": 130,
+    "Goldstein": -7
+  },
+  {
+    "Country": "SriLanka",
+    "Average_Tone": 0,
+    "Mentions": 288,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Svalbard",
+    "Average_Tone": 1,
+    "Mentions": 16,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Tunisia",
+    "Average_Tone": 1,
+    "Mentions": 69,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Turkey",
+    "Average_Tone": 1,
+    "Mentions": 1136,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Tuvalu",
+    "Average_Tone": -2,
+    "Mentions": 74,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Uruguay",
+    "Average_Tone": 2,
+    "Mentions": 50,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Algeria",
+    "Average_Tone": -1,
+    "Mentions": 18,
+    "Goldstein": -6
+  },
+  {
+    "Country": "AntiguaandBarbuda",
+    "Average_Tone": 0,
+    "Mentions": 16,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Bahamas",
+    "Average_Tone": 3,
+    "Mentions": 153,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Bermuda",
+    "Average_Tone": 2,
+    "Mentions": 6,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Botswana",
+    "Average_Tone": -1,
+    "Mentions": 82,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Cambodia",
+    "Average_Tone": 1,
+    "Mentions": 3834,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Cameroon",
+    "Average_Tone": 2,
+    "Mentions": 133,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Canada",
+    "Average_Tone": 1,
+    "Mentions": 7549,
+    "Goldstein": -4
+  },
+  {
+    "Country": "CentralAfricanRepublic",
+    "Average_Tone": 1,
+    "Mentions": 10,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Chad",
+    "Average_Tone": 0,
+    "Mentions": 28,
+    "Goldstein": -7
+  },
+  {
+    "Country": "China",
+    "Average_Tone": 1,
+    "Mentions": 5028,
+    "Goldstein": -4
+  },
+  {
+    "Country": "ChristmasIsland",
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Colombia",
+    "Average_Tone": 2,
+    "Mentions": 119,
+    "Goldstein": -6
+  },
+  {
+    "Country": "CookIslands",
+    "Average_Tone": -2,
+    "Mentions": 18,
+    "Goldstein": -5
+  },
+  {
+    "Country": "CotedIvoire",
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Croatia",
+    "Average_Tone": 2,
+    "Mentions": 10,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Cyprus",
+    "Average_Tone": 3,
+    "Mentions": 71,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Average_Tone": 2,
+    "Mentions": 28,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Denmark",
+    "Average_Tone": 3,
+    "Mentions": 805,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Dominica",
+    "Average_Tone": 3,
+    "Mentions": 49,
+    "Goldstein": -4
+  },
+  {
+    "Country": "DominicanRepublic",
+    "Average_Tone": 0,
+    "Mentions": 8,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Estonia",
+    "Average_Tone": 0,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Ethiopia",
+    "Average_Tone": 5,
+    "Mentions": 50,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Fiji",
+    "Average_Tone": 2,
+    "Mentions": 12,
+    "Goldstein": -5
+  },
+  {
+    "Country": "France",
+    "Average_Tone": 0,
+    "Mentions": 1992,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Greenland",
+    "Average_Tone": 3,
+    "Mentions": 188,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Haiti",
+    "Average_Tone": 5,
+    "Mentions": 99,
+    "Goldstein": -5
+  },
+  {
+    "Country": "HongKong",
+    "Average_Tone": 0,
+    "Mentions": 571,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Iceland",
+    "Average_Tone": 2,
+    "Mentions": 356,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Indonesia",
+    "Average_Tone": 2,
+    "Mentions": 1341,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Israel",
+    "Average_Tone": 2,
+    "Mentions": 505,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Jersey",
+    "Average_Tone": 1,
+    "Mentions": 289,
+    "Goldstein": -5
+  },
+  {
+    "Country": "JohnstonAtoll",
+    "Average_Tone": 2,
+    "Mentions": 8,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Kazakhstan",
+    "Average_Tone": 3,
+    "Mentions": 74,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Kenya",
+    "Average_Tone": 1,
+    "Mentions": 1700,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Malawi",
+    "Average_Tone": 2,
+    "Mentions": 30,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Maldives",
+    "Average_Tone": 3,
+    "Mentions": 14,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Malta",
+    "Average_Tone": 1,
+    "Mentions": 391,
+    "Goldstein": -5
+  },
+  {
+    "Country": "MarshallIslands",
+    "Average_Tone": 1,
+    "Mentions": 3,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Micronesia",
+    "Average_Tone": 0,
+    "Mentions": 224,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Montenegro",
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "NewCaledonia",
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Niger",
+    "Average_Tone": 0,
+    "Mentions": 27,
+    "Goldstein": -5
+  },
+  {
+    "Country": "NorthernMarianaIslands",
+    "Average_Tone": 3,
+    "Mentions": 106,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Oman",
+    "Average_Tone": 2,
+    "Mentions": 405,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Pakistan",
+    "Average_Tone": 2,
+    "Mentions": 263,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Panama",
+    "Average_Tone": -1,
+    "Mentions": 81,
+    "Goldstein": -7
+  },
+  {
+    "Country": "PapuaNewGuinea",
+    "Average_Tone": 0,
+    "Mentions": 10,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Philippines",
+    "Average_Tone": 1,
+    "Mentions": 1373,
+    "Goldstein": -6
+  },
+  {
+    "Country": "PuertoRico",
+    "Average_Tone": 3,
+    "Mentions": 219,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Romania",
+    "Average_Tone": 3,
+    "Mentions": 340,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Russia",
+    "Average_Tone": 2,
+    "Mentions": 3484,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Senegal",
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Serbia",
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "SierraLeone",
+    "Average_Tone": 6,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Singapore",
+    "Average_Tone": 0,
+    "Mentions": 171,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Somalia",
+    "Average_Tone": 2,
+    "Mentions": 57,
+    "Goldstein": -8
+  },
+  {
+    "Country": "SouthAfrica",
+    "Average_Tone": 0,
+    "Mentions": 2691,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Spain",
+    "Average_Tone": 0,
+    "Mentions": 1165,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Sudan",
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Swaziland",
+    "Average_Tone": 1,
+    "Mentions": 374,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Switzerland",
+    "Average_Tone": 2,
+    "Mentions": 224,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Taiwan",
+    "Average_Tone": 1,
+    "Mentions": 409,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Tajikistan",
+    "Average_Tone": 3,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Thailand",
+    "Average_Tone": 0,
+    "Mentions": 2249,
+    "Goldstein": -5
+  },
+  {
+    "Country": "TrinidadandTobago",
+    "Average_Tone": 1,
+    "Mentions": 254,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Turkmenistan",
+    "Average_Tone": 4,
+    "Mentions": 63,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Ukraine",
+    "Average_Tone": 0,
+    "Mentions": 225,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Average_Tone": 1,
+    "Mentions": 5012,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Uzbekistan",
+    "Average_Tone": 0,
+    "Mentions": 34,
+    "Goldstein": -3
+  },
+  {
+    "Country": "VaticanCity",
+    "Average_Tone": 3,
+    "Mentions": 20,
+    "Goldstein": -10
+  },
+  {
+    "Country": "WestBank",
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Yemen",
+    "Average_Tone": 2,
+    "Mentions": 29,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Zimbabwe",
+    "Average_Tone": -1,
+    "Mentions": 8919,
+    "Goldstein": -8
+  }
+]
