@@ -3,12 +3,12 @@ import plotly.graph_objs as go
 import json
 from collections import defaultdict
 
-# --begin_header--
-__author__ = "Max Yendall"
+#!/usr/bin/python
+
+__author__ = "Max James Yendall"
 __credits__ = "Plotly Data Plotting Services"
 __version__ = "1.0"
-__email__ = "s3436993@student.rmit.edu.au"
-# --end_header--
+__email__ = "yendallmax@gmail.com"
 
 with open('Aggregate/Years/data.json') as data_file:
     data = json.load(data_file)
