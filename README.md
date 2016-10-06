@@ -4,4 +4,7 @@ A simple collection of graph generators using Plotly and GDELT data. Pruned resu
 <p>
   <img src="https://github.com/Yendall/Plotly-Graph-Generator/blob/master/graph.png">
 </p>
+------
+###### Copyright (C) 2016 Max Yendall - All Rights Reserved - You may use, distribute and modify this code with requested permission
+------
 
