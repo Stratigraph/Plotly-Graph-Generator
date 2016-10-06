@@ -2,6 +2,7 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 import json
 from collections import defaultdict
+from pip._vendor.distlib.compat import raw_input
 
 #!/usr/bin/python
 
@@ -74,4 +75,4 @@ layout = go.Layout(
 
 # Plot data using layout configuration
 fig = go.Figure(data=data, layout=layout)
-py.iplot(fig, filename='angled-text-bar')
+py.plot(fig, filename='angled-text-bar')
