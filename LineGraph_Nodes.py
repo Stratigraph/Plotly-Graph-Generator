@@ -1,8 +1,14 @@
 import plotly.plotly as py
 import plotly.graph_objs as go
-
-# Add data
 from pip._vendor.distlib.compat import raw_input
+#!/usr/bin/python
+
+__author__ = "Max James Yendall"
+__credits__ = "Plotly Data Plotting Services"
+__version__ = "1.0"
+__email__ = "yendallmax@gmail.com"
+# Add data
+
 
 node_count = ['6 Slaves', '8 Slaves', '10 Slaves', '12 Slaves', '14 Slaves']
 time_taken = [2.1886, 1.5917, 1.4356, 1.165, 0.9958]
@@ -36,6 +42,6 @@ layout = dict(
     yaxis = dict(title = 'Time Taken (Hours)'),
 )
 
-# Plot and embed in ipython notebook!
+# Plot and Display
 fig = dict(data=data, layout=layout)
 py.plot(fig, filename='styled-line')
