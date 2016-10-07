@@ -1,3 +1,5 @@
+from functools import reduce
+
 import plotly.plotly as py
 import plotly.graph_objs as go
 import json
@@ -34,8 +36,8 @@ for k, v in d_gold.iteritems():
     reduce_gold[k] = reduce(lambda x, y: x + y, v) / len(v)
 
 # Prompt for Username and API Key for Plotly services
-user_name = raw_input("What is your username?")
-API_key = raw_input("What is your API Key?")
+user_name = raw_input("What is your username?: ")
+API_key = raw_input("What is your API Key?: ")
 
 # Authenticate user to begin creating the graph
 py.sign_in(user_name,API_key)
